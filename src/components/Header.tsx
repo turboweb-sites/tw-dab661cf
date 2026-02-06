@@ -7,7 +7,7 @@ export default function Header() {
         <div className="flex items-center gap-3">
           <div className="w-12 h-12 rounded-xl overflow-hidden bg-gradient-to-br from-blue-50 to-purple-50 flex items-center justify-center p-1">
             <img 
-              src="https://pub-166557a34b174b9a90d5376150b1d05a.r2.dev/assets/dab661cf-6915-44c6-a649-03b6f8d30958/d784ba0e-a1e5-4020-884e-735f3a9a480b/ChatGPT_Image_25_________2026______17_32_05_removebg_preview_1770356843550_5doe9e.webp" 
+              src="http://localhost:5000/api/projects/dab661cf-6915-44c6-a649-03b6f8d30958/assets/e86ec2d2-0cd0-404c-947f-870a3f28564e" 
               alt="TodoMaster Logo" 
               className="w-full h-full object-contain"
             />
